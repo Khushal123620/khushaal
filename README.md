@@ -1,3 +1,5 @@
 # khushaal
-author:khushal mahajan from-vi tbhopal university
+author:khushal mahajan 
+<br>
+from-vit tbhopal university
 
